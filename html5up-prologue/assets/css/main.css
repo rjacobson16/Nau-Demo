@@ -1682,8 +1682,20 @@
 		clear: both;
 	}
 
+	#alt-sub{
+		font-weight: bold;
+		color: 'black' !important;
+	}
+
+.tech{
+	margin-top: 50px;
+}
 /* Sections/Article */
 
+.feature-item{
+	margin-left: 100px;
+	margin-top: 200px;
+}
 	section, article {
 		margin-bottom: 3em;
 	}
